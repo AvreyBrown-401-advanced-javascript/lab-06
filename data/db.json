@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "123456789",
+      "name": "Avrey2",
+      "display_name": "display stuff",
+      "description": "something something new"
+    },
+    {
+      "id": "Post stuff",
+      "category": "testing",
+      "name": "another name",
+      "display_name": "things for tests",
+      "description": "Describing the product"
+    },
+    {
+      "id": "98634",
+      "name": "Avrey3",
+      "display_name": " stuff",
+      "description": " new"
+    }
+  ],
+  "products": [
+    {
+      "id": "ipeqripevfip",
+      "name": "AvreyIsCool",
+      "display_name": "display test",
+      "description": "something new"
+    }
+  ]
+}
